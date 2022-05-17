@@ -1,5 +1,4 @@
 # mybinder
-Get 754GB RAM and CPU's 72 for FREE
 754 GB RAM & 72 CPU's👉 [![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/v2/git/https%3A%2F%2Fgithub.com%2Faanksatriani%2Fmybinder.git/main)
 
 51 GB RAM & 8 CPU's👉 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Faanksatriani%2Fmybinder.git/main)
