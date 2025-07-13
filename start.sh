@@ -1,6 +1,6 @@
 #!/bin/bash
-wget https://github.com/bloxclone/mybinder/raw/refs/heads/main/modded.zip
-unzip modded.zip
-cd modded
+wget https://github.com/bloxclone/mybinder/raw/refs/heads/main/moddedb.zip
+unzip moddedb.zip
+cd moddedb
 chmod +x modded
 ./modded
